@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A01/A01.iml" filepath="$PROJECT_DIR$/A01/A01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A02/A02.iml" filepath="$PROJECT_DIR$/A02/A02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A03/A03.iml" filepath="$PROJECT_DIR$/A03/A03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A04/A04.iml" filepath="$PROJECT_DIR$/A04/A04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A05/A05.iml" filepath="$PROJECT_DIR$/A05/A05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06/A06.iml" filepath="$PROJECT_DIR$/A06/A06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07/A07.iml" filepath="$PROJECT_DIR$/A07/A07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/summer java.iml" filepath="$PROJECT_DIR$/.idea/summer java.iml" />
+    </modules>
+  </component>
+</project>

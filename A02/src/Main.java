@@ -8,7 +8,6 @@ public class Main {
         double c_degree = sc.nextDouble(); //섭씨 온도
         double f_degree = c_degree * 1.8 + 32; //화씨 온도
 
-        System.out.print("Fahrenheit temperature is ");
-        System.out.printf("%.1f", f_degree);
+        System.out.printf("Fahrenheit temperature is %.1f", f_degree);
     }
 }
